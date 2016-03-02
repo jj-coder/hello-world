@@ -1,2 +1,2 @@
 # hello-world
-Tutorial githuib repository
+Tutorial github repository for jj-coder
